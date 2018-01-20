@@ -9,3 +9,13 @@ h1{
 	font-family: "Verdana",Arial, Times New Roman;
 	color: #fff;
 }
+.link{
+	margin: 0 auto;
+	text-align: center;
+	width: auto;
+	padding: 20px;
+}
+.link p{
+	font-size: 20px;
+	font-family: "Verdana",Arial, Times New Roman;
+}
