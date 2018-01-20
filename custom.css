@@ -1,0 +1,11 @@
+.box{
+	background-color: teal;
+	margin: 0 auto;
+	text-align: center;
+	width:auto;
+	padding: 5px 5px;
+}
+h1{
+	font-family: "Verdana",Arial, Times New Roman;
+	color: #fff;
+}
